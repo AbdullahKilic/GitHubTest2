@@ -1,1 +1,2 @@
 bu repo test için hazırlandı.
+bu repo ikinci push için hazırlandı.
